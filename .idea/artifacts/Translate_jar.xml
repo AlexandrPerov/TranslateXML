@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Translate:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Translate_jar</output-path>
+    <root id="archive" name="Translate.jar">
+      <element id="module-output" name="Translate" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.10/commons-lang3-3.10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
